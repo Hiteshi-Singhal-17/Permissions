@@ -3,6 +3,7 @@ Android categorizes permissions into different types
 - install-time permissions
 - runtime permissions 
 - special permissions </br>
+
 Runtime permissions, also known as dangerous permissions, give your app additional access to restricted data, and they allow your app to
 perform restricted actions that more substantially affect the system and other apps. Therefore, you need to request runtime permissions in
 your app before you can access the restricted data or perform restricted actions. When your app requests a runtime permission, the system 
